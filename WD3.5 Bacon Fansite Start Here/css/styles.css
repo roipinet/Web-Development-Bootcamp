@@ -1,4 +1,22 @@
+/* Type Selectors */
 h1 {
   color: red;
   font-size: 40px;
+}
+/* img{
+    background-color: red;
+} */
+/* Class Selectors */
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+/* Id Selectors */
+#heading{
+    color:blue;
 }
