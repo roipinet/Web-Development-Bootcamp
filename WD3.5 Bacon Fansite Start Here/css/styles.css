@@ -3,9 +3,9 @@ h1 {
   color: red;
   font-size: 40px;
 }
-/* img{
-    background-color: red;
-} */
+img:hover{
+    background-color: gold;
+}
 /* Class Selectors */
 .bacon{
     background-color: green;
@@ -16,6 +16,7 @@ h1 {
 .circular{
     border-radius: 100%;
 }
+
 /* Id Selectors */
 #heading{
     color:blue;
